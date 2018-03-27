@@ -1,0 +1,5 @@
+name: gofn2
+version: 0.0.22
+runtime: go
+entrypoint: ./func
+format: json
